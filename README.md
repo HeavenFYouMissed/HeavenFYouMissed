@@ -1,10 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Daniel+Castellani;Solo+Builder+%7C+AI+%7C+Security+%7C+Firmware;I+build+things+that+shouldn't+exist+yet." alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=HeavenFYouMissed&color=00d4ff&style=flat)](https://github.com/HeavenFYouMissed)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Daniel+Castellani;Solo+Builder+%7C+AI+%7C+Security+%7C+Firmware;I+build+things+that+shouldn't+exist+yet." alt="Typing SVG" >
 
 <div align="center">
   <picture>
@@ -15,11 +12,17 @@
 </div>
 ---
 
+[![Profile Views](https://komarev.com/ghpvc/?username=HeavenFYouMissed&color=00d4ff&style=flat)](https://github.com/HeavenFYouMissed)
+
 ### 🧠 Who I am
 
 I'm a solo engineer who builds across whatever domain needs solving — AI infrastructure, low-level security tooling, firmware research, ML data pipelines, and full-stack platforms. I don't specialize, I integrate. My background runs from inline x86_64 assembly and DMA/PCIe firmware all the way up to LLM internals and SaaS products.
 
 Military trained. Amazon alumni. Independent ever since.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshana1s/roshana1s/main/assets/bg.gif" width="508" height="286" alt="Coding Animation"/>
+</p>
 
 - 🔬 Currently: **[Model Surgery](https://model-surgery.com)** — transplanting knowledge between neural networks without retraining *(patent pending)*
 - 🚀 Shipped: **[SuperClawHub](https://superclawhub.com)** — hosted multi-user AI agent platform, built solo in ~1 week
