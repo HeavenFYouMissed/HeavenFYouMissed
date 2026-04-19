@@ -111,16 +111,6 @@ The bigger the model, the better it works. Opposite of what you'd expect.
 
 ---
 
-### 🐍 Contribution Activity
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/HeavenFYouMissed/HeavenFYouMissed/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ### 🚀 What I Build
 
 ```
