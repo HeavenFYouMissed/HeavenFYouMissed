@@ -121,9 +121,6 @@ The bigger the model, the better it works. Opposite of what you'd expect.
 
 <img src="https://streak-stats.demolab.com?user=HeavenFYouMissed&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header&text=Daniel%20Castellani&fontSize=40&fontColor=ffffff&animation=fadeIn)
-
----
 
 ### 🚀 What I Build
 
