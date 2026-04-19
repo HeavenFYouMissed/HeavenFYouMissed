@@ -123,10 +123,6 @@ The bigger the model, the better it works. Opposite of what you'd expect.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header&text=Daniel%20Castellani&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer)
-
-<img src="https://github-profile-trophy.vercel.app/?username=HeavenFYouMissed&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
 ---
 
 ### 🚀 What I Build
