@@ -25,7 +25,6 @@ Military trained. Amazon alumni. Independent ever since.
 - 🚀 Shipped: **[SuperClawHub](https://superclawhub.com)** — hosted multi-user AI agent platform, built solo in ~1 week
 - 🗣️ Also: **[Nexus Language](https://nexus-language.com)** — assistive communication tool
 - 📍 Based in **Connecticut**
-- 🎥 **~43k subscribers** on YouTube
 
 ---
 
