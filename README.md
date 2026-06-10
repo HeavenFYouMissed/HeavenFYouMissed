@@ -27,6 +27,7 @@ Military trained. Amazon alumni. Independent ever since.
 - 🔬 Currently: **[Model Surgery](https://model-surgery.com)** — transplanting knowledge between neural networks without retraining *(patent pending)*
 - 🚀 Shipped: **[SuperClawHub](https://superclawhub.com)** — hosted multi-user AI agent platform, built solo in ~1 week
 - 🗣️ Also: **[Nexus Language](https://nexus-language.com)** — assistive communication tool
+- @  star: **[kanddlabs_V3code](https://v3code.dev)** — vscode fork intelligent coding editor
 - 📍 Based in **Connecticut**
 
 ---
