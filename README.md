@@ -1,4 +1,4 @@
-## Hi there daniel castellani from kanddlabs 👋
+## Hi there daniel castellani from kanddlabs lead engeener on v3code👋
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Daniel+Castellani;Solo+Builder+%7C+AI+%7C+Security+%7C+Firmware;I+build+things+that+shouldn't+exist+yet." alt="Typing SVG" >
